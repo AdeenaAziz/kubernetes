@@ -1,5 +1,6 @@
 # kubernetes
 Basics about K8s architecture presented in simplest possible way :)
+
 🌟 Today, I delved into the fascinating world of Kubernetes architecture! 🚀
 🌟 Excited to share insights on Kubernetes! 🌟
 So let's start vd something fun, why is Kubernetes abbreviated as K8s?
