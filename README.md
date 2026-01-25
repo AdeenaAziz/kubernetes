@@ -19,10 +19,8 @@ How to setup Cron jobs?
 To setup a cronjob, you use a command called crontab. If you execute crontab -l you will see a list of currently installed cron jobs. Jobs are defined in a text file using crontab syntax that you can find or generate at https://crontab-generator.org/. Each line is a job that will be executed. To add/modify/delete a job run crontab -e and perform the deed.
 
 syntax:
-* * * * * command_to_execute
-- - - - -
-<img width="386" height="194" alt="image" src="https://github.com/user-attachments/assets/72a90afe-a2b6-4db7-af06-b77aee10aa29" />
 
+<img width="386" height="194" alt="image" src="https://github.com/user-attachments/assets/72a90afe-a2b6-4db7-af06-b77aee10aa29" />
 
 Examples:
 a) Run daily at 6 PM:
