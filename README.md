@@ -14,7 +14,7 @@ _Resources to Track_
 3. AWS Lambda functions
 4. AWS IAM users
 --------------------------------------   
-_Add Cron Job Entry_:/n
+_Add Cron Job Entry_:
 How to setup Cron jobs?
 To setup a cronjob, you use a command called crontab. If you execute crontab -l you will see a list of currently installed cron jobs. Jobs are defined in a text file using crontab syntax that you can find or generate at https://crontab-generator.org/. Each line is a job that will be executed. To add/modify/delete a job run crontab -e and perform the deed.
 
