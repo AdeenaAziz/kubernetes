@@ -21,12 +21,8 @@ To setup a cronjob, you use a command called crontab. If you execute crontab -l 
 syntax:
 * * * * * command_to_execute
 - - - - -
-| | | | |
-| | | | +----- Day of week (0-7) (Sunday = 0 or 7)
-| | | +------- Month (1-12)
-| | +--------- Day of month (1-31)
-| +----------- Hour (0-23)
-+------------- Minute (0-59)
+<img width="386" height="194" alt="image" src="https://github.com/user-attachments/assets/72a90afe-a2b6-4db7-af06-b77aee10aa29" />
+
 
 Examples:
 a) Run daily at 6 PM:
