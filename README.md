@@ -22,7 +22,8 @@ syntax:
 
 <img width="386" height="194" alt="image" src="https://github.com/user-attachments/assets/72a90afe-a2b6-4db7-af06-b77aee10aa29" />
 
-Examples:
+_Examples:
 a) Run daily at 6 PM:
-command:
+command:_
+
 0 18 * * * /home/ubuntu/aws_resource_tracker.sh
